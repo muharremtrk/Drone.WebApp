@@ -1,0 +1,44 @@
+@using Drone.WebApp.Models
+
+@model List<Ziha>
+
+
+@{
+    ViewData["Title"] = "Zihalar";
+}
+<div class="container py-3">
+<h1>Zihalar</h1>
+<div class="col-lg-9 mx-auto">
+    <div class="row">
+        @foreach (var ziha in Model)
+        {
+            <div class="col-md-6">
+                <div class="card mb-4 product-wap rounded-0">
+                    <div class="card rounded-0">
+                        <img class="card-img rounded-0 img-fluid" src="@ziha.Kapak" style="height: 250px;">
+                    </div>
+                    <div class="card-body mx-auto">
+                        <a href="/Zihalar/Get?drone_id=@ziha.Drone_Id" class="h3 text-decoration-none">@ziha.Marka - @ziha.Model</a>
+                        <ul class="w-100 list-unstyled d-flex justify-content-between mb-0">
+                            <li></li>
+                            <li class="pt-2">
+                                <!-- Renk noktaları -->
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled d-flex justify-content-center mb-1">
+                            <li>
+                                <!-- Yıldızlar -->
+                            </li>
+                        </ul>
+                        <a href="/Zihalar/Get?drone_id=@ziha.Drone_Id" class="btn btn-outline-primary text-center mb-0" >Detaylar</a><br><br>
+                        <a href="/teklif?drone_id=@ziha.Drone_Id" class="btn btn-outline-success text-center mb-0">Teklif Al</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <div class="row justify-content-center">
+        <!-- Sayfalama -->
+    </div>
+</div>
+</div>

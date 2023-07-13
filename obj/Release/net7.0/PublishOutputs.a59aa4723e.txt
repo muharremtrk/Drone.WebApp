@@ -1,0 +1,17 @@
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Drone.WebApp.exe
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\publish\web.config
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\appsettings.Development.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\appsettings.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\publish\appsettings.Development.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\publish\appsettings.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\publish\Drone.WebApp.deps.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\publish\Drone.WebApp.runtimeconfig.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Drone.WebApp.dll
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Drone.WebApp.deps.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Drone.WebApp.runtimeconfig.json
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Drone.WebApp.pdb
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\MySqlConnector.dll
+C:\Users\qq\Desktop\c e tic\Drone.WebApp\publish\Pomelo.EntityFrameworkCore.MySql.dll

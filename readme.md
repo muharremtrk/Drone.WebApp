@@ -1,2 +1,2 @@
 Read me 
-Tıkla
+Tıkla indir

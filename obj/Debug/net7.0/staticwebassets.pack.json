@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Drone.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Drone.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\About-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\About-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\banner-ilac.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-ilac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\banner-satis.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-satis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\banner-tamir.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-tamir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\ilac.jpg",
+      "PackagePath": "staticwebassets\\img\\ilac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-monster.avif",
+      "PackagePath": "staticwebassets\\img\\sav-monster.avif"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-monster.jpg",
+      "PackagePath": "staticwebassets\\img\\sav-monster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-monster.png",
+      "PackagePath": "staticwebassets\\img\\sav-monster.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-x.avif",
+      "PackagePath": "staticwebassets\\img\\sav-x.avif"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-x.jpg",
+      "PackagePath": "staticwebassets\\img\\sav-x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-x.png",
+      "PackagePath": "staticwebassets\\img\\sav-x.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl.avif",
+      "PackagePath": "staticwebassets\\img\\sav-xl.avif"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl.jpg",
+      "PackagePath": "staticwebassets\\img\\sav-xl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl.png",
+      "PackagePath": "staticwebassets\\img\\sav-xl.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl2.avif",
+      "PackagePath": "staticwebassets\\img\\sav-xl2.avif"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl2.jpg",
+      "PackagePath": "staticwebassets\\img\\sav-xl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xl2.png",
+      "PackagePath": "staticwebassets\\img\\sav-xl2.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xm.avif",
+      "PackagePath": "staticwebassets\\img\\sav-xm.avif"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xm.jpg",
+      "PackagePath": "staticwebassets\\img\\sav-xm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\sav-xm.png",
+      "PackagePath": "staticwebassets\\img\\sav-xm.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\tamir.jpg",
+      "PackagePath": "staticwebassets\\img\\tamir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\tamir.png",
+      "PackagePath": "staticwebassets\\img\\tamir.png"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\img\\ziha.jpeg",
+      "PackagePath": "staticwebassets\\img\\ziha.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\select.js",
+      "PackagePath": "staticwebassets\\js\\select.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\pdf\\SAV-MONSTER54L.pdf",
+      "PackagePath": "staticwebassets\\pdf\\SAV-MONSTER54L.pdf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\pdf\\SAV-X10L.pdf",
+      "PackagePath": "staticwebassets\\pdf\\SAV-X10L.pdf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\pdf\\SAV-XL22L.pdf",
+      "PackagePath": "staticwebassets\\pdf\\SAV-XL22L.pdf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\pdf\\SAV-XLV230L.pdf",
+      "PackagePath": "staticwebassets\\pdf\\SAV-XLV230L.pdf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\pdf\\SAV-XM16L.pdf",
+      "PackagePath": "staticwebassets\\pdf\\SAV-XM16L.pdf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\qq\\Desktop\\c e tic\\Drone.WebApp\\wwwroot\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\webfonts\\slick.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Drone.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Drone.WebApp.props",
+      "PackagePath": "build\\Drone.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Drone.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\Drone.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Drone.WebApp.props",
+      "PackagePath": "buildTransitive\\Drone.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

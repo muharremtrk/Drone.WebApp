@@ -1,0 +1,74 @@
+@page
+@model Drone.WebApp.Models.TeklifModel
+@{
+
+}
+
+<div class="container-fluid bg-light py-5">
+    <div class="col-md-6 m-auto text-center">
+        <h1 class="h1">İletişime Geç</h1>
+        <p>
+            Sorularınız için bize ulaşın. İhtiyaçlarınızı dinleyerek size en iyi hizmeti sağlamak için buradayız.
+            İletişime geçmekten çekinmeyin!
+        </p>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row py-5">
+        <form class="col-md-9 m-auto" method="post" role="form">
+            <div class="row">
+                <div class="form-group col-md-6 mb-3">
+                    <label for="name">Ad Soyad</label>
+                    <input type="text" class="form-control mt-1" id="Name" name="name" placeholder="Ad Soyad" required>
+                </div>
+                <div class="form-group col-md-6 mb-3">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control mt-1" id="Email" name="email" placeholder="Email Adresiniz"
+                        required>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="Phone">Telefon Numarası</label>
+                <input type="text" class="form-control mt-1" id="Phone" name="Phone" placeholder="Telefon Numaranız">
+                <small class="form-text text-muted">Telefon numaranızı isteğe bağlı olarak girebilirsiniz.</small>
+            </div>
+            <div class="mb-3">
+                <label for="subject">Konu</label>
+                <input type="text" class="form-control mt-1" id="Subject" name="subject" placeholder="Konu-Ürün"
+                    required>
+            </div>
+            <div class="mb-3">
+                <label for="Urun">Ürün Seçiniz</label>
+                <select class="form-select mt-1" id="Urun" name="urun" aria-label="Default select example">
+                    <option value="null">Ürün Seçiniz</option>
+                    <option value="1">SAV-X</option>
+                    <option value="2">SAV-XM</option>
+                    <option value="3">SAV-XL</option>
+                    <option value="4">SAV-XL V2</option>
+                    <option value="5">SAV-MONSTER</option>
+                </select>
+            </div>               
+                <div class="mb-3">
+                    <label for="message">Mesajınız</label>
+                    <textarea class="form-control mt-1" id="Message" name="message"
+                        placeholder="Bilgi ve teklif almak istediğiniz konu veya ürünler hakkında bize ulaşabilirsiniz. Ayrıca, mesajınızı da bizimle paylaşabilirsiniz. Size en kısa sürede geri dönüş yapacağız."
+                        rows="8" required></textarea>
+                </div>
+                <div class="row">
+                    <div class="col text-end mt-2">
+                        <button type="submit" class="btn btn-success btn-lg px-3">Gönder!</button>
+                    </div>
+                </div>
+        </form>
+    </div>
+</div>
+<script>
+    var urlParams = new URLSearchParams(window.location.search);
+    var drone_id = urlParams.get('drone_id');
+    
+    var urun = document.getElementById("Urun");
+    urun.value = drone_id;
+</script>
+@section Scripts {
+    <script src="~/js/select.js"></script>}
